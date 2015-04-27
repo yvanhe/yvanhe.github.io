@@ -24,10 +24,10 @@ avatar: http://yvan.u.qiniudn.com/avator.jpg
 favicon: http://yvan.u.qiniudn.com/avator.jpg
 
 # google analytics 设置
-ga:
-  id: UA-54767140-1
-  url: yansu.org
+#ga:
+#  id: UA-54767140-1
+#  url: yansu.org
 
 # disqus 设置
-disqus:
-  shortname: suyan-zh
+#disqus:
+#  shortname: suyan-zh
