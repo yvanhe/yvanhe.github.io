@@ -24,9 +24,9 @@ avatar: http://yvan.u.qiniudn.com/avator.jpg
 favicon: http://yvan.u.qiniudn.com/avator.jpg
 
 # google analytics 设置
-ga:
-  id:
-  url:
+#ga:
+#  id:
+#  url:
 
 # disqus 设置
 disqus:
