@@ -1,4 +1,3 @@
-_site/
-_drafts/
+_site
 .DS_Store
-.idea/
+startup.sh

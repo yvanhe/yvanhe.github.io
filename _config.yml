@@ -1,34 +1,14 @@
-permalink: /:year/:month/:day/:title.html
-markdown: kramdown
-pygments: true
+markdown: rdiscount
+permalink: /:title/
+url: http://github.thinkingbar.com
 highlighter: pygments
-
-kramdown:
-  input: GFM
-
-# 作者信息
-author:
-  name: YvanHe
-  email: yvancoder@gmail.com
-  link: http://yvanhe.github.io
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/yvanhe
-
-# 站点信息
-title: YvanHe's Blog
-description: YvanHe's Blog
-url: http://yvanhe.github.io
-rss_url: /pages/atom.xml
-
-# avatar头像及Favicon
-avatar: http://yvan.u.qiniudn.com/avator.jpg
-favicon: http://yvan.u.qiniudn.com/avator.jpg
-
-# google analytics 设置
-ga:
-  id:
-  url:
-
-# disqus 设置
-disqus:
-  shortname: yvanhe
+name: 飘过的小牛
+description: 飘过的小牛 | Stop talking, start doing.
+author: niushuai
+email: hnns1990@gmail.com
+duoshuo: niushuai
+weibo: 1891858481
+hub: niushuai
+safe: true
+paginate: 100
+about: "弱菜一枚。"
