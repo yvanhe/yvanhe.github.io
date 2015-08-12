@@ -1,7 +1,7 @@
 ---
 layout: post
 title: hibernate3.jar和hibernate-core.jar的区别
-categories: Java Hibernate
+categories: Java
 tags: Java Eclipse Maven Hibernate
 ---
 
