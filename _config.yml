@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /:title/
 url: http://yvanhe.github.io
 highlighter: pygments
